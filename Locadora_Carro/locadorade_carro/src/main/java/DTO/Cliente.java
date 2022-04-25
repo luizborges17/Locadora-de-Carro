@@ -6,6 +6,12 @@ public class Cliente {
 	String cpfCliente;
 	String enderecoCliente;
 	
+	public Cliente(String nomeCliente, String cpfCliente, String enderecoCliente) {
+		this.nomeCliente = nomeCliente;
+		this.cpfCliente = cpfCliente;
+		this.enderecoCliente = enderecoCliente;
+	}
+	
 	public String getNomeCliente() {
 		return nomeCliente;
 	}

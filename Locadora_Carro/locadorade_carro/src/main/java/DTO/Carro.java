@@ -5,6 +5,12 @@ public class Carro {
 	String placa;
 	String nomeCarro;
 	String preco;
+	
+	public Carro(String placa, String nomeCarro, String preco) {
+		this.nomeCarro = nomeCarro;
+		this.placa = placa;
+		this.preco = preco;
+	}
 	public String getPlaca() {
 		return placa;
 	}

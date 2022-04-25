@@ -5,6 +5,12 @@ public class Funcionario {
 	String nome_func;
 	String func;
 	String salario;
+	
+	public Funcionario(String nome_func, String func, String salario) {
+		this.nome_func = nome_func;
+		this.func = func;
+		this.salario = salario;
+	}
 	public String getNome_func() {
 		return nome_func;
 	}
