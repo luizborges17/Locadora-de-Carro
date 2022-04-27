@@ -43,7 +43,7 @@ public class Sofa {
 	public static void main(String[] args) {
 		
 		
-		 Sofa s1 = new Sofa ("Arca sofás", "Preto", "Camurça");
+		 Sofa s1 = new Sofa ("Sofá da adriana", "AMarelo", "Penagem de ganso");
 		 
 		 s1.list(s1);
 		
