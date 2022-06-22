@@ -1,2 +1,10 @@
+DTO\Carro.class
+DAO\Conectar.class
+com\example\view\Main.class
+DAO\CarroDAO.class
+DTO\Cliente.class
 com\example\view\HelloApplication.class
+DTO\Funcionario.class
+DAO\FuncionarioDAO.class
 com\example\view\HelloController.class
+DAO\ClienteDAO.class
